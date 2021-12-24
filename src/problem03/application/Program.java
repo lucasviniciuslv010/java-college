@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import problem01.model.exceptions.DomainException;
+import problem03.model.exceptions.DomainException;
 import problem03.model.entities.CarRental;
 import problem03.model.entities.Vehicle;
 import problem03.model.services.BrazilTaxService;
